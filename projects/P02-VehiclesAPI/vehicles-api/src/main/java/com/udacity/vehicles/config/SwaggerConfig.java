@@ -33,7 +33,7 @@ public class SwaggerConfig
                 "VEHICLE API",
                 "This API returns a list of vehicles.",
                 "1.0",
-                "http://www.udacity.com/tos",
+                "urn:tos",
                 new Contact("Jasmina Dimitrijevic", null, "dimjas@gmail.com"),
                 "License of API", "http://www.apache.org/licenses/LICENSE-2.0.html", Collections.emptyList());
     }
